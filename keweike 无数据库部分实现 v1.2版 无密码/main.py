@@ -152,7 +152,7 @@ Verify_Code={}
 
 
 
-run(host='localhost', port=8080, server='cherrypy',
+run(host='localhost', port=8080, #server='cherrypy',
   debug=True,
   reloader=True,
   )
